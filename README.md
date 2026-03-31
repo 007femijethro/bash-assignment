@@ -227,4 +227,4 @@ logs/app.log
 ```
 * Handle script failures gracefully
   
-**Submission link:** [CLICK HERE](https://forms.gle/jrhpKjXsQXZxLopN6)
+**Submission link:** [CLICK HERE](https://)
